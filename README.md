@@ -19,4 +19,4 @@ The Link Shortener project provides a seamless way to convert lengthy URLs into 
 ## Installation and Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/aditya2006p/link-shortener.git
+   [git clone https://github.com/aditya2006p/link-shortener.git](https://github.com/Aditya2006p/Link-Shortener.git)
