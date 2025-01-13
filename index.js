@@ -1,6 +1,6 @@
 const express = require('express');
 const urlRoute = require('./routes/url');
-const staticRoute = require('./routes/staticrouter');
+const staticRoute = require('./routes/staticRouter.js');
 const path = require('path');
 const app = express();
 const PORT = 8000;
